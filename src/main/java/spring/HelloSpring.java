@@ -6,5 +6,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class HelloSpring {
 	public static void main(String[] args) {
 		SpringApplication.run(HelloSpring.class, args);
+		System.out.println("hello1212");
 	}
 }
